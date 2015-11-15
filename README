@@ -1,0 +1,8 @@
+PROJECT NAME: Medical Store Management
+
+MIS: 141503010
+
+NAME: Twinkle Mahendra Parmar
+
+	This project is about managing the medical store. In this there is an admin which is logged in to system via entering the login name and approprite password and will control many operations like adding medicine, customer and supplier. Also the operation of deleting and updating medicine, supplier and customer is available. Further the calulation of bill and generation of report is done.
+
